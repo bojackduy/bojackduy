@@ -29,9 +29,9 @@ Backend software engineer and open-source developer working across production sy
 
 | Language | Share |
 |---|---:|
-| TypeScript | 77.8% |
-| Rust | 9.4% |
-| JavaScript | 7.0% |
+| TypeScript | 77.5% |
+| Rust | 9.3% |
+| JavaScript | 7.3% |
 | HTML | 2.4% |
 | Lua | 1.5% |
 | CSS | 1.4% |
