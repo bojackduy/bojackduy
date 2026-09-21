@@ -21,8 +21,9 @@ Backend software engineer and open-source developer working across production sy
 | [opencode-telescope](https://github.com/bojackduy/opencode-telescope) | OpenCode TUI plugin for fuzzy and semantic search across local conversation and session history | 4 | 0 | TypeScript |
 | [opencode-loopd](https://github.com/bojackduy/opencode-loopd) | Codex-inspired background goal engine for OpenCode — autonomous subagents, engine-driven loop, and modal TUI dashboard (like Claude Code loop, for OpenCode) | 2 | 0 | TypeScript |
 | [LEGv8](https://github.com/bojackduy/LEGv8) | LEGv8 datapath simulator | 1 | 0 | JavaScript |
+| [bojackduy](https://github.com/bojackduy/bojackduy) | Trinh Chan Duy — backend engineer and open-source developer | 0 | 0 | — |
+| [bojackduy.github.io](https://github.com/bojackduy/bojackduy.github.io) | Interactive portfolio for Trinh Chan Duy — backend engineer and open-source developer | 0 | 0 | TypeScript |
 | [lazyjira](https://github.com/bojackduy/lazyjira) | A keyboard-first Jira workspace for the terminal. | 0 | 0 | TypeScript |
-| [Lockout-Web](https://github.com/bojackduy/Lockout-Web) | Codeforces lockout but on web (FE only) | 0 | 0 | TypeScript |
 
 ## Top languages
 
